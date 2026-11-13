@@ -19,7 +19,7 @@ The scraped dataset contains **100 rows** and **5 columns**:
 
 | Column | Description |
 | :--- | :--- |
-| `title` | Full title of the book |
+| `title` | Sapiens: A Brief History of Humankind |
 | `price` | Display price in GBP (`£`) |
 | `price_gbp` | Cleaned numeric price (`float`) ready for analysis |
 | `rating` | Star rating (`One` to `Five`) |
